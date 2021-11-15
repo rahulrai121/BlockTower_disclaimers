@@ -1,4 +1,4 @@
-DISCLAIMER
+<b> DISCLAIMER </b>
  
 GENERAL
 This communication and the content contained herein is intended for limited circulation and is provided to the recipient on a confidential basis. This communication may contain information that is privileged, confidential or exempt from disclosure under applicable law.  The recipient expressly acknowledges and agrees that it will hold this communication and its contents in the strictest confidence. Any views or opinions presented are solely those of the author 
